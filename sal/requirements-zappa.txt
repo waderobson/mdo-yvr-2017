@@ -1,0 +1,3 @@
+zappa
+django-storages
+-r requirements.txt
